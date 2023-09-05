@@ -1,0 +1,8 @@
+{
+    "conf.marmoset.course": "CS136",
+    "conf.marmoset.semester": "Spring 2023",
+    "files.associations": {
+        "string_view": "c",
+        "string-reader.h": "c"
+    }
+}
