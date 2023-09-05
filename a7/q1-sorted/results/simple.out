@@ -1,0 +1,29 @@
+INFO: New box added to shelf.
+INFO: New box added to shelf.
+INFO: New box added to shelf.
+=== SHELF (actual) =========
+ID: A; Weight: 75 kg; Volume: 50 cm^3
+ID: B; Weight: 100 kg; Volume: 25 cm^3
+ID: C; Weight: 75 kg; Volume: 15 cm^3
+============================
+Shelf references sorted by volume (ascending).
+=== SHELF (actual) =========
+ID: A; Weight: 75 kg; Volume: 50 cm^3
+ID: B; Weight: 100 kg; Volume: 25 cm^3
+ID: C; Weight: 75 kg; Volume: 15 cm^3
+============================
+=== SHELF (references) =====
+ID: C; Weight: 75 kg; Volume: 15 cm^3
+ID: B; Weight: 100 kg; Volume: 25 cm^3
+ID: A; Weight: 75 kg; Volume: 50 cm^3
+============================
+ID: C; Weight: 75 kg; Volume: 15 cm^3
+=== SHELF (actual) =========
+ID: A; Weight: 75 kg; Volume: 50 cm^3
+ID: B; Weight: 100 kg; Volume: 25 cm^3
+============================
+=== SHELF (references) =====
+ID: B; Weight: 100 kg; Volume: 25 cm^3
+ID: A; Weight: 75 kg; Volume: 50 cm^3
+============================
+ID: B; Weight: 100 kg; Volume: 25 cm^3
